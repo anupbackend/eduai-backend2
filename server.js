@@ -1,4 +1,4 @@
-/import express from "express";
+import express from "express";
 import OpenAI from "openai";
 import cors from "cors";
 
